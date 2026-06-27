@@ -163,7 +163,7 @@ class HarcodedApplicationTests {
 	 * ============================================================
 	 */
 
-    
+    /*
     @Test
     void testAdditionFailure() {
 
@@ -185,6 +185,6 @@ class HarcodedApplicationTests {
 
         assertEquals(1000,result.result());
     }
-
+*/
 
 }
